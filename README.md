@@ -68,3 +68,4 @@ npx hardhat run scripts/mintNFT.js --network monadTestnet
 git pull --rebase origin main
 ```
 before pushing changes to avoid merge mess.
+have fun
